@@ -6,17 +6,6 @@ All of the content is written in markdown, the plan will be intitially to have a
 ### Grammar and Spelling check 
 Before this process takes place each file will need to be confirmed that all spelling and grammar is correct, this should be done for each markdown file and uploaded to the repository before moving on. 
 
-### Installing the tools 
-I am using WSL2 on my Windows machine but these will also work on Linux based systems. 
-
-```
-sudo apt-get update 
-sudo apt-get install pandoc
-sudo apt-get install texlive-xetex
-sudo apt-get install texlive-latex-base
-sudo apt-get install texlive-fonts-recommended
-sudo apt-get install texlive-fonts-extra
-sudo apt-get install texlive-latex-extra
 ```
 
 ### Markdown to Microsoft Word 
