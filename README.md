@@ -16,9 +16,6 @@ This will **not cover all things** "DevOps" but it will cover the areas that I f
 
 [![Discord Invite Link](https://dcbadge.vercel.app/api/server/vqwPrNQsyK)](https://discord.gg/vqwPrNQsyK)
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/michaelcade/90daysofdevops?style=social?)
-
-The two images below will take you to the 2022 and 2023 edition of the learning journey. 
 
 <p align="center">
  <a href="2022.md">
