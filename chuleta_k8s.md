@@ -1,24 +1,6 @@
 # CORE CONCEPTS
 -------------------
-### Delete pod using kubectl command 
-<details><summary>show</summary>
-  <p>
-    
-  ```bash
-  kubectl delete pod frontend
-  ```
-    
-  </p>
-</details>
 
-### Delete pod created by specific YAML file 
-<details><summary>show</summary>
-  <p>
-    
-  ```bash
-  kubectl delete -f pod.yaml
-  ```
-    
   <p>
 </details>
 
